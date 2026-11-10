@@ -1,0 +1,10 @@
+{
+  "variant": 11,
+  "departments": [
+    "buh",
+    "kadry",
+    "it"
+  ],
+  "files_per_department": 6,
+  "keep_last": 5
+}

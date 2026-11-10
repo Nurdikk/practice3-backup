@@ -1,0 +1,4 @@
+company_data/
+backups/
+__pycache__/
+restore_test*/
